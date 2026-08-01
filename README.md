@@ -34,14 +34,13 @@ Visit Files/
 
 ---
 
-## 👥 Team Members
+## 👥 Team Members.
 
-|------|------|
-| Member 1 | Suhani Kadu |
-| Member 2 | Sumruddhi varma|
-| Member 3 | Vinit Bodhe |
-| Member 4 | Vishesh Shrikhande |
-| Member 5 | Yash Petkar |
+| Member 1 | Suhani Kadu |.
+| Member 2 | Sumruddhi varma|.
+| Member 3 | Vinit Bodhe |.
+| Member 4 | Vishesh Shrikhande |.
+| Member 5 | Yash Petkar |.
 
 
 ## 🎯 Project Objectives
